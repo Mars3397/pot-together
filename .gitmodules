@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Mars3397/pot-together-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/yu-niverse/pot-together-backend.git
