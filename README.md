@@ -85,7 +85,7 @@ React (PWA) ──► Go API (Gin) ──► MySQL (AWS RDS)
 | 13   | DB schema + initial API draft                                   |
 | 14   | Core pages (home/rooms/login) + user & record APIs              |
 | 15   | Progress‑update presentation – all APIs done, ingredient upload |
-| 16   | 75 % feature freeze                                             |
+| 16   | 75 % feature done                                               |
 | 17   | Final presentation & polish                                     |
 
 ---
@@ -94,9 +94,9 @@ React (PWA) ──► Go API (Gin) ──► MySQL (AWS RDS)
 
 | Role                | Members            |
 | ------------------- | ------------------ |
-| **Full‑stack / PM** | **Yun (Mars) Kuo** |
+| **Lead** | **Yun (Mars) Kuo** |
 | **Frontend**        | 江晨, 筱庭 邵           |
-| **Backend**         | Chieh Yu, 陳存佩      |
+| **Backend**         | Chieh-Yu Chuang、Chun-Pei, Chen      |
 | **UI/UX & Design**  | Carrie Liang       |
 
 ## 📂 Course Artifacts
@@ -197,9 +197,9 @@ React (PWA) ──► Go API (Gin) ──► MySQL (AWS RDS)
 
 | 角色             | 成員                 |
 | -------------- | ------------------ |
-| **全端 / PM**    | **Yun (Mars) Kuo** |
+| **Lead**    | **Yun (Mars) Kuo** |
 | **前端**         | 江晨、筱庭 邵            |
-| **後端**         | Chieh Yu、陳存佩       |
+| **後端**         | Chieh-Yu Chuang、Chun-Pei, Chen       |
 | **UI/UX & 設計** | Carrie Liang       |
 
 ## 📂 課程素材
