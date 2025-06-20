@@ -188,7 +188,7 @@ React (PWA) ──► Go API (Gin) ──► MySQL (AWS RDS)
 | 13 | DB Schema 與初版 API 草案                        |
 | 14 | 主要頁面 (home/rooms/login) + user & record API |
 | 15 | 期中報告 – 全 API 完成，食材上傳                        |
-| 16 | 功能凍結 75 %                                   |
+| 16 | 功能完成 75 %                                   |
 | 17 | 最終展示與潤飾                                     |
 
 ---
