@@ -96,7 +96,7 @@ React (PWA) ──► Go API (Gin) ──► MySQL (AWS RDS)
 | ------------------- | ------------------ |
 | **Lead** | **Yun (Mars) Kuo** |
 | **Frontend**        | 江晨, 筱庭 邵           |
-| **Backend**         | Chieh-Yu Chuang、Chun-Pei, Chen      |
+| **Backend**         | Chieh-Yu Chuang, Chun-Pei Chen      |
 | **UI/UX & Design**  | Carrie Liang       |
 
 ## 📂 Course Artifacts
@@ -199,7 +199,7 @@ React (PWA) ──► Go API (Gin) ──► MySQL (AWS RDS)
 | -------------- | ------------------ |
 | **Lead**    | **Yun (Mars) Kuo** |
 | **前端**         | 江晨、筱庭 邵            |
-| **後端**         | Chieh-Yu Chuang、Chun-Pei, Chen       |
+| **後端**         | Chieh-Yu Chuang、Chun-Pei Chen       |
 | **UI/UX & 設計** | Carrie Liang       |
 
 ## 📂 課程素材
